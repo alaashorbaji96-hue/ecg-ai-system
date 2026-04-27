@@ -1,6 +1,6 @@
 streamlit
 numpy
 plotly
-tensorflow
+tensorflow-cpu
 scipy
 matplotlib
