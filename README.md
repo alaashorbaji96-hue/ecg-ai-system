@@ -1,6 +1,6 @@
 # ❤️ ECG AI Diagnosis Platform
 
-## 🧠 Executive Overview
+##  Executive Overview
 
 The **ECG AI Diagnosis Platform** is an advanced, end-to-end intelligent system designed to transform raw electrocardiogram (ECG) signals into clinically meaningful insights using **deep learning, explainable AI (XAI), and rule-based medical reasoning**.
 
