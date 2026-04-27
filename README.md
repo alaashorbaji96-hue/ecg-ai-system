@@ -1612,15 +1612,21 @@ ECG analysis tools
 AI-assisted cardiology systems
 Medical education platforms
 Research in explainable AI for healthcare
+
+---
+
 👨‍💻 Author
 
-Alaa Shorbaji
+### Alaa Shorbaji
 
 AI Engineer & Instructor
 Specialized in:
 Deep Learning
 Explainable AI (XAI)
 Medical AI Systems
+
+---
+
 🔗 GitHub
 
 https://github.com/alaashorbaji96-hue
