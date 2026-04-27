@@ -300,7 +300,7 @@ What it captures:
 
 ###  5. Attention Mechanism
 
-🔥 This is a key innovation
+ This is a key innovation
 
 Purpose:
 - Allow the model to **focus on important signal regions**
@@ -341,9 +341,7 @@ Real-world ECG:
 
 Example:
 - AFIB + PVC  
-- LVH + ST changes  
-
-👉 لذلك استخدمنا **Sigmoid بدل Softmax**
+- LVH + ST changes 
 
 ---
 
